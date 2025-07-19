@@ -7,6 +7,7 @@ import { useForm } from 'react-hook-form'
  import {Button,Logo,Input} from './index'
 
 function Signup() {
+  const {register,handleSubmit}=useForm()
   const navigate=useNavigate()
   const dispatch=useDispatch()
   const signUp=async (data)=>
