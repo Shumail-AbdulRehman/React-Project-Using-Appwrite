@@ -8,6 +8,7 @@ This is a practice project built using **React.js** and **Appwrite**. The goal o
 - **Appwrite** – Backend-as-a-Service for authentication, database, storage, etc.
 - **JavaScript** – Programming language
 - **Vite** – Fast development build tool
+- **Redux Toolkit** – State Management
 
 ## 🛠️ Features
 
